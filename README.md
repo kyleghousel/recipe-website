@@ -1,1 +1,1 @@
-# odin-recipez
+This will be my first HTML based project uploaded to GitHub. Here I hope to demonstrate basic understanding of HTML practices and structure. 
